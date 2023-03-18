@@ -1,0 +1,8 @@
+{
+  "guild_id": "880050089819766806",
+  "role_ids": ["894529718987157545"],
+  "custom_role_id": "1041436952135741571",
+  "emoji_server_id": "880050089819766806",
+  "connection_string": "postgresql://postgres:zBHM0k6oyIkuYBuXNNrB@containers-us-west-202.railway.app:5721/railway",
+  "token": "MTAwNDQ5Nzg4NTY0OTQ1NzI1Mw.Gsg1Tt.1xetSehPBpnEngFYVe8YdreQbDxSfQ5T5uniSo"
+}
